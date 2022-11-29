@@ -1,3 +1,6 @@
+#############################################
+# remove all occurrences a specific item of list #
+# ################################################## 
 list_1=[5,15,20,12,20,13,20,14,20]
 print("frist list : ",list_1)
 for i in range(len(list_1)):
