@@ -11,5 +11,5 @@ list_2 = my_input_2.split(",")
 
 for i in range(len(list_1)):
     list = int(list_2[i])+int(list_1[i])
-    print(list)
+    print(list,end=",")
 
