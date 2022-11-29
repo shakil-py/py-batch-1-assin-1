@@ -1,4 +1,6 @@
+###################################################
+# add Nem item after a specified item ##
+##################################################
 list_1 = ["shakil", 12, 15, 45, 65, 48, 75, 89]
-# list_1.append("babu")
-list_1.
+list_1.insert(3,"babu")
 print(list_1)
