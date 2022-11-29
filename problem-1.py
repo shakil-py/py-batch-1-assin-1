@@ -1,3 +1,7 @@
+###################################################################
+## Take input 2 int list and Concatinate two list index wise ##
+###################################################################
+
 
 my_input_1 = input("Please input list-1 number useing ',' :")
 my_input_2 = input("Please input list-2 number useing ',' :")
